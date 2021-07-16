@@ -1,0 +1,1 @@
+# static_this_class_instance.md
